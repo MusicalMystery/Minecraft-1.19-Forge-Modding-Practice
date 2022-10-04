@@ -19,6 +19,7 @@ public class TutorialMod
 
 
     //Very Important Comment
+    //Silly Comment
     public TutorialMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
